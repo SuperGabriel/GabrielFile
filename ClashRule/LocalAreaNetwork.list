@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,acl4.ssr
 
 # 本地/局域网地址
-DOMAIN-SUFFIX,vaultwarden.178038.xyz
+# DOMAIN-SUFFIX,vaultwarden.178038.xyz
 DOMAIN-SUFFIX,safeline.178038.xyz
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
